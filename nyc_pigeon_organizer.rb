@@ -17,11 +17,7 @@ end
  end
     final_array
   end 
-  
-  
-  
-  
-  
+
   # write your code here! hash in hash with arrays of strings, keys are hash with symbols, values are hashes with keys and arrays of strings. map works with arrays but not hashes.  
   binding.pry
 end
